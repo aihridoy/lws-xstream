@@ -1,0 +1,21 @@
+{
+    "games": "GAMES",
+    "teams": "TEAMS", 
+    "topStreaming": "TOP STREAMING", 
+    "play": "PLAY", 
+    "compete": "COMPETE", 
+    "follow": "FOLLOW", 
+    "popular": "POPULAR", 
+    "streamers": "STREAMERS", 
+    "description": "The best streamers gather here to have a good time, be among us, join us!", 
+    "comingSoon": "COMING SOON", 
+    "broadcastStartsIn": "Broadcast starts in", 
+    "battleForCastle": "Battle for the castle with Franck Jourdan and Eva703", 
+    "streamsOfTheDay": "Streams of the day", 
+    "viewAll": "View all",
+    "youMayLike": "You may like", 
+    "live": "LIVE", 
+    "donate": "Donate",
+    "subscribe": "Subscribe", 
+    "search": "Search"
+}
